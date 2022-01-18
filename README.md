@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @faezenajafi
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning React
+- 📫 How to reach me instagram @Lightcompany.ir
